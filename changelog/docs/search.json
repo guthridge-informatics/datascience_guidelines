@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "changelog_standard.html",
+    "href": "changelog_standard.html",
+    "title": "CHANGELOG description",
+    "section": "",
+    "text": "A changelog is a record of what has been done and how that has changed over time. It should provide a list that would quickly inform another user (or remind yourself) what is different in a new version of a project, or software and allow someone to pin an analysis, presentation, manuscript, etc to a particular and traceable form of the project.\nSee keep a changelog for more information about changelogs.\n\n\n\nThe CHANGELOG should be written in a plain, markdown, or restructured text document. These formats are compatible with any software and, importantly, are machine-readable. Markdown is the preferred format as it is capable of being in its read in raw format while also providing symbols that indicate formatting.\nFor questions about markdown, see the Markdown Guide\n\n\n\nEvery entry should begin with the new version followed by the date that the changes are being added. Version numbers should roughly follow semantic versioning. In brief there are three parts to a version in the form of MAJOR.MINOR.PATCH:\n\nMAJOR: Breaking changes. Alters results, potentially changing conclusions. Removal or addition of samples.\nMINOR: Bug fix, additional analysis. Change in software, provided it doesn’t drastically change results\nPATCH: Small bug fix. For example, a change in capitalization or punctuation. Splitting a source code file into two.\n\nChanges should be added as bullet lists organized by the kind of change. Sections include\n\nAdded\nChanged\nFixed\nRemoved\nUpdated\n\nKeep lines limited to 120 characters (including spaces). Save file as CHANGELOG.md\n\n\n\n# Changelog guidelines\n\n## [1.0.0] - 2024/07/15\n\n### Added\n\n- Purpose, format, structure, and example sections\n\n## [0.0.1]\n\n### Added\n\n- Created file\n\n[1.0.0]: https://github.com/guthridge-informatics/changelog/releases/tag/0.0.1..1.0.0\n[0.0.1]: https://github.com/guthridge-informatics/changelog/releases/tag/v0.0.1"
+  },
+  {
+    "objectID": "changelog_standard.html#purpose",
+    "href": "changelog_standard.html#purpose",
+    "title": "CHANGELOG description",
+    "section": "",
+    "text": "A changelog is a record of what has been done and how that has changed over time. It should provide a list that would quickly inform another user (or remind yourself) what is different in a new version of a project, or software and allow someone to pin an analysis, presentation, manuscript, etc to a particular and traceable form of the project.\nSee keep a changelog for more information about changelogs."
+  },
+  {
+    "objectID": "changelog_standard.html#format",
+    "href": "changelog_standard.html#format",
+    "title": "CHANGELOG description",
+    "section": "",
+    "text": "The CHANGELOG should be written in a plain, markdown, or restructured text document. These formats are compatible with any software and, importantly, are machine-readable. Markdown is the preferred format as it is capable of being in its read in raw format while also providing symbols that indicate formatting.\nFor questions about markdown, see the Markdown Guide"
+  },
+  {
+    "objectID": "changelog_standard.html#structure",
+    "href": "changelog_standard.html#structure",
+    "title": "CHANGELOG description",
+    "section": "",
+    "text": "Every entry should begin with the new version followed by the date that the changes are being added. Version numbers should roughly follow semantic versioning. In brief there are three parts to a version in the form of MAJOR.MINOR.PATCH:\n\nMAJOR: Breaking changes. Alters results, potentially changing conclusions. Removal or addition of samples.\nMINOR: Bug fix, additional analysis. Change in software, provided it doesn’t drastically change results\nPATCH: Small bug fix. For example, a change in capitalization or punctuation. Splitting a source code file into two.\n\nChanges should be added as bullet lists organized by the kind of change. Sections include\n\nAdded\nChanged\nFixed\nRemoved\nUpdated\n\nKeep lines limited to 120 characters (including spaces). Save file as CHANGELOG.md"
+  },
+  {
+    "objectID": "changelog_standard.html#example",
+    "href": "changelog_standard.html#example",
+    "title": "CHANGELOG description",
+    "section": "",
+    "text": "# Changelog guidelines\n\n## [1.0.0] - 2024/07/15\n\n### Added\n\n- Purpose, format, structure, and example sections\n\n## [0.0.1]\n\n### Added\n\n- Created file\n\n[1.0.0]: https://github.com/guthridge-informatics/changelog/releases/tag/0.0.1..1.0.0\n[0.0.1]: https://github.com/guthridge-informatics/changelog/releases/tag/v0.0.1"
+  }
+]

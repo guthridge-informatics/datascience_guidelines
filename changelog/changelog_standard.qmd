@@ -1,6 +1,6 @@
 ---
 title: "CHANGELOG description"
-format: pdf
+format: html
 ---
 
 # CHANGELOG
