@@ -58,6 +58,6 @@ Keep lines limited to 120 characters (including spaces). Save file as `CHANGELOG
 
 - Created file
 
-[1.0.0]: https://github.com/guthridge-informatics/changelog/releases/tag/0.0.1..1.0.0
+[1.0.0]: https://github.com/guthridge-informatics/changelog/releases/compare/0.0.1..1.0.0
 [0.0.1]: https://github.com/guthridge-informatics/changelog/releases/tag/v0.0.1
 ```
